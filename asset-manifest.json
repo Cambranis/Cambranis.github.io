@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf8f2d9d.chunk.css",
+    "main.js": "/static/js/main.7ed977e5.chunk.js",
+    "main.js.map": "/static/js/main.7ed977e5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.6aa814dd.chunk.js": "/static/js/2.6aa814dd.chunk.js",
+    "static/js/2.6aa814dd.chunk.js.map": "/static/js/2.6aa814dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e38cc264c73f0e01bf5983519314e782.js": "/precache-manifest.e38cc264c73f0e01bf5983519314e782.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bf8f2d9d.chunk.css.map": "/static/css/main.bf8f2d9d.chunk.css.map",
+    "static/media/asesoria.jpg": "/static/media/asesoria.874659ee.jpg",
+    "static/media/horario.png": "/static/media/horario.ce368def.png",
+    "static/media/logo.png": "/static/media/logo.91404f1f.png",
+    "static/media/logo.svg": "/static/media/logo.e83eeb30.svg",
+    "static/media/logo2.png": "/static/media/logo2.aa7b1445.png",
+    "static/media/logo3.png": "/static/media/logo3.d220694d.png"
+  }
+}
